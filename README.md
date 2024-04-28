@@ -1,5 +1,4 @@
-# pizza_sales
-I have visualized various aspects of pizza sales data to gain insights. Also written SQL Queries for same.
+
 # pizza_sales
 TITLE-Pizza Sales Analysis with Power BI Integration
 
@@ -28,14 +27,18 @@ We have identified the following requirements for creating charts:
 
 
 Insights derived from the data:
-Classic is most selling category where as chicken is less selling category.
-Customer are prefer L size of pizza most.
-The Classic Deluxe Pizza is the top selling pizza where as The Brie Carre Pizza is least selling.
+
+1.Classic is most selling category where as chicken is less selling category.
+2.Customer are prefer L size of pizza most.
+3.The Classic Deluxe Pizza is the top selling pizza where as The Brie Carre Pizza is least selling.
 Day-
-Orders are Highest On Friday Not sunday.
+1.Orders are Highest On Friday Not sunday.
 Monthly-
-These are maximum orders from month of July and January.
+1.These are maximum orders from month of July and January.
 
 Dashboard-
+
+
 <img width="586" alt="Screenshot 2024-04-28 220936" src="https://github.com/Shalinirahane/pizza_sales/assets/168328115/ad8fea60-6586-436b-9b1f-15999486f9d3">
+
 <img width="583" alt="Screenshot 2024-04-28 220915" src="https://github.com/Shalinirahane/pizza_sales/assets/168328115/a7feed51-d9ad-4027-a5d2-f01d19bb3bca">
